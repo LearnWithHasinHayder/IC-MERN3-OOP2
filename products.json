@@ -1,20 +1,16 @@
 {
   "products": [
     {
-      "id": "3",
-      "name": "aut",
+      "name": "Beautiful Table",
       "description": "Aspernatur et dignissimos dolorem aut maxime quasi.",
-      "price": 318.23,
-      "created_at": "2024-11-19T07:08:17.000000Z",
-      "updated_at": "2024-11-19T07:08:17.000000Z"
+      "price": "400",
+      "id": "3"
     },
     {
-      "id": "4",
       "name": "voluptates",
       "description": "Sit et officia qui ducimus.",
-      "price": 416.92,
-      "created_at": "2024-11-19T07:08:17.000000Z",
-      "updated_at": "2024-11-19T07:08:17.000000Z"
+      "price": "100",
+      "id": "4"
     },
     {
       "id": "5",

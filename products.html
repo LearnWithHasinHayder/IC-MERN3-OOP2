@@ -58,22 +58,22 @@
         <div x-show="open" id="editProductModal" class="fixed inset-0 bg-gray-800 bg-opacity-50 flex items-center justify-center" style="display: none;">
             <div class="bg-white p-4 rounded shadow w-1/3">
                 <h2 class="text-lg font-semibold mb-2">Edit Product</h2>
-                <form id="editProductForm">
+                <form @submit.prevent id="editProductForm">
                     <div class="mb-4">
                         <label class="block text-sm font-medium mb-1">Name</label>
-                        <input x-model="product.name" type="text" id="editName" class="border p-2 rounded w-full" required>
+                        <input x-model="editName" type="text" id="editName" class="border p-2 rounded w-full" required>
                     </div>
                     <div class="mb-4">
                         <label class="block text-sm font-medium mb-1">Description</label>
-                        <input x-model="product.description" type="text" id="editDescription" class="border p-2 rounded w-full" required>
+                        <input x-model="editDescription" type="text" id="editDescription" class="border p-2 rounded w-full" required>
                     </div>
                     <div class="mb-4">
                         <label class="block text-sm font-medium mb-1">Price</label>
-                        <input x-model="product.price" type="number" id="editPrice" class="border p-2 rounded w-full" required>
+                        <input x-model="editPrice" type="number" id="editPrice" class="border p-2 rounded w-full" required>
                     </div>
                     <div class="flex justify-end gap-2">
                         <button @click="open=false" type="button" id="cancelEdit" class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400">Cancel</button>
-                        <button type="submit" class="px-4 py-2 bg-indigo-500 text-white rounded hover:bg-indigo-600">Save</button>
+                        <button @click="saveProduct()"  type="submit" class="px-4 py-2 bg-indigo-500 text-white rounded hover:bg-indigo-600">Save</button>
                     </div>
                 </form>
             </div>
@@ -87,7 +87,10 @@
                 description: "",
                 price: "",
                 open: false,
-                product: {},
+                editName:"",
+                editDescription:"",
+                editPrice:"",
+                editId:"",
                 fetchProducts() {
                     axios.get('http://localhost:3000/products')
                         .then(response => {
@@ -113,17 +116,17 @@
                     }
                 },
                 editProduct(product) {
-                    this.product.id = product.id
-                    this.product.name = product.name
-                    this.product.description = product.description
-                    this.product.price = product.price
+                    this.editId = product.id
+                    this.editName= product.name
+                    this.editDescription = product.description
+                    this.editPrice= product.price
                     this.open = true
                 },
                 saveProduct() {
-                    axios.put(`http://localhost:3000/products/${this.product.id}`, {
-                        name: this.product.name,
-                        description: this.product.description,
-                        price: this.product.price
+                    axios.put(`http://localhost:3000/products/${this.editId}`, {
+                        name: this.editName,
+                        description: this.editDescription,
+                        price: this.editPrice
                     }).then(response => {
                         fetchProducts()
                         this.open = false
