@@ -1,0 +1,400 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "aut",
+      "description": "Aspernatur et dignissimos dolorem aut maxime quasi.",
+      "price": 318.23,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "4",
+      "name": "voluptates",
+      "description": "Sit et officia qui ducimus.",
+      "price": 416.92,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "5",
+      "name": "totam",
+      "description": "Omnis eligendi qui est vitae et.",
+      "price": 222.4,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "6",
+      "name": "tempora",
+      "description": "Natus praesentium cupiditate blanditiis nulla ea sit.",
+      "price": 143.44,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "7",
+      "name": "sit",
+      "description": "Dolor veniam sit et recusandae tenetur.",
+      "price": 465.79,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "8",
+      "name": "possimus",
+      "description": "Ullam porro dolorem amet ut qui architecto quia.",
+      "price": 485.98,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "9",
+      "name": "ut",
+      "description": "Dolorem sunt nihil iste aut amet et.",
+      "price": 261.34,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "10",
+      "name": "est",
+      "description": "Amet ad pariatur aspernatur reiciendis illum eum minima hic.",
+      "price": 442.94,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "11",
+      "name": "facere",
+      "description": "Molestias a labore sit iste voluptates.",
+      "price": 176.94,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "12",
+      "name": "dolorem",
+      "description": "Sed excepturi explicabo expedita et incidunt neque minus consequatur.",
+      "price": 499.67,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "13",
+      "name": "occaecati",
+      "description": "Tempora quia a est culpa repellendus error nesciunt.",
+      "price": 462.66,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "14",
+      "name": "porro",
+      "description": "Quae eum omnis et beatae dolores.",
+      "price": 332.98,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "15",
+      "name": "cupiditate",
+      "description": "Nesciunt deleniti molestiae repellat dolor et omnis error.",
+      "price": 50.95,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "16",
+      "name": "ut",
+      "description": "Molestiae et distinctio rerum eum ad.",
+      "price": 79.29,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "17",
+      "name": "sunt",
+      "description": "Odio eaque et sit neque quaerat.",
+      "price": 262.24,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "18",
+      "name": "sunt",
+      "description": "Asperiores veniam rerum quasi eius quia veritatis.",
+      "price": 398.79,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "19",
+      "name": "nostrum",
+      "description": "Dolores eveniet aut expedita aut cumque quod.",
+      "price": 181.85,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "20",
+      "name": "qui",
+      "description": "Quos corrupti et sint voluptatem eveniet provident.",
+      "price": 119.82,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "21",
+      "name": "rem",
+      "description": "Inventore asperiores id voluptatum.",
+      "price": 294.45,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "22",
+      "name": "quo",
+      "description": "Aspernatur sapiente et consequatur vel at nesciunt omnis.",
+      "price": 351.88,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "23",
+      "name": "numquam",
+      "description": "Ad et consequatur aspernatur.",
+      "price": 82.42,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "24",
+      "name": "possimus",
+      "description": "Dolorum incidunt optio voluptas quod et.",
+      "price": 37.35,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "25",
+      "name": "sed",
+      "description": "Non dolorem ab inventore ut suscipit quia assumenda.",
+      "price": 99.29,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "26",
+      "name": "totam",
+      "description": "Et autem quo cupiditate accusamus.",
+      "price": 163.95,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "27",
+      "name": "est",
+      "description": "Aut voluptatibus corrupti praesentium dolore saepe.",
+      "price": 432.78,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "28",
+      "name": "doloremque",
+      "description": "Ab non iste repudiandae fuga omnis placeat consequatur.",
+      "price": 376.34,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "29",
+      "name": "distinctio",
+      "description": "Ducimus dolorem laboriosam eum corporis et.",
+      "price": 235.03,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "30",
+      "name": "omnis",
+      "description": "Sit totam aliquam totam omnis hic harum laborum.",
+      "price": 352.7,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "31",
+      "name": "maiores",
+      "description": "Et minus libero velit molestiae.",
+      "price": 450.38,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "32",
+      "name": "nihil",
+      "description": "Possimus recusandae nostrum doloribus asperiores odit porro.",
+      "price": 453.06,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "33",
+      "name": "et",
+      "description": "Voluptate id necessitatibus eum delectus quae in est facilis.",
+      "price": 434.2,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "34",
+      "name": "nemo",
+      "description": "Voluptatem ipsam in quia quidem at et et.",
+      "price": 356.84,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "35",
+      "name": "autem",
+      "description": "Eos dolores aut dignissimos quisquam unde.",
+      "price": 452.75,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "36",
+      "name": "modi",
+      "description": "Veritatis tempore beatae est molestiae eligendi.",
+      "price": 176.74,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "37",
+      "name": "mollitia",
+      "description": "Ipsum dicta ipsam vero similique.",
+      "price": 310.13,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "38",
+      "name": "aperiam",
+      "description": "Laborum in iusto sed soluta.",
+      "price": 215.84,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "39",
+      "name": "voluptas",
+      "description": "Ad quae aut suscipit magni eum dolore.",
+      "price": 129.71,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "40",
+      "name": "voluptatibus",
+      "description": "Minima ut ut laboriosam voluptas voluptas et.",
+      "price": 473.77,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "41",
+      "name": "autem",
+      "description": "Itaque error possimus officiis harum animi.",
+      "price": 356.04,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "42",
+      "name": "veritatis",
+      "description": "Non quisquam consequatur error distinctio dolorum.",
+      "price": 437.23,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "43",
+      "name": "debitis",
+      "description": "Reiciendis et corrupti quia at.",
+      "price": 210.01,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "44",
+      "name": "amet",
+      "description": "Dolores voluptatem necessitatibus et aliquid tenetur quia error.",
+      "price": 152.29,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "45",
+      "name": "dolor",
+      "description": "Esse explicabo voluptatibus sunt modi aliquam assumenda ut.",
+      "price": 96.13,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "46",
+      "name": "minima",
+      "description": "Aspernatur culpa ipsa non harum laborum quas.",
+      "price": 210.09,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "47",
+      "name": "perferendis",
+      "description": "Quam sit maxime modi cum autem.",
+      "price": 192.49,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "48",
+      "name": "fugiat",
+      "description": "Dolore incidunt harum asperiores mollitia ut.",
+      "price": 340.65,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "49",
+      "name": "voluptatibus",
+      "description": "Maxime quia quo iure tempore at cupiditate voluptas.",
+      "price": 43.75,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "50",
+      "name": "minus",
+      "description": "Sapiente saepe et dolorem maiores numquam ut sint est.",
+      "price": 379.88,
+      "created_at": "2024-11-19T07:08:17.000000Z",
+      "updated_at": "2024-11-19T07:08:17.000000Z"
+    },
+    {
+      "id": "3768",
+      "name": "Table",
+      "description": "blah blah",
+      "price": "115"
+    },
+    {
+      "id": "0c25",
+      "name": "Chair",
+      "description": "nice chair",
+      "price": "123"
+    }
+  ]
+}
